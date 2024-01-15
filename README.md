@@ -1,4 +1,4 @@
-# Liver Disease Prediction
+# Liver Disease Prediction: Classification and Clustering
 
 ## Overview
 This project involves predicting liver disease in patients from North East of Andhra Pradesh, India, based on clinical and demographic features using classification techniques. Additionally, exploratory analysis may include uncovering natural groupings or clusters among patients, shedding light on potential subgroups within the dataset. The comprehensive dataset encompasses records of both liver and non-liver patients.
